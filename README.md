@@ -1,6 +1,12 @@
 # AI---Oblig1
 
-students: s341876, s341866, s341841, s341859
+Students: 
+- Johannes Erdahl Andresen, s341876
+- Ole-Michael Ekornrud, s341866
+- Henrik Madsen, s341841
+- Adrian Tokle Storset, s341859
+
+----
 
 Task 1.1: Identify 5 unique features from this data set. 
 - Tid
