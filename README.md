@@ -3,7 +3,7 @@
 students: s341876, s341866, s341841
 
 Task 1.1: Identify 5 unique features from this data set. 
-- Time
+- Tid
 - Linjenavn
 - Fylke
 - Område
