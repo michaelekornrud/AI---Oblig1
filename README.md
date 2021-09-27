@@ -1,6 +1,6 @@
 # AI---Oblig1
 
-students: s341876, s341866, s341841
+students: s341876, s341866, s341841, s341859
 
 Task 1.1: Identify 5 unique features from this data set. 
 - Tid
